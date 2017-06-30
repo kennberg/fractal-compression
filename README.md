@@ -13,3 +13,7 @@ License
 ======================
 Apache v2. See the LICENSE file.
 
+Improvements
+======================
+14x speed improvement based on this work:
+https://github.com/xabarass/fast-fractal-compression
